@@ -4,7 +4,7 @@ This repository contains the code implementation and data for the paper titled "
 
 To improve clarity, we updated the README.md with diagrams to clarify the method and input/output examples. We include an example using the Paper Source Tracing (PST) task to further elucidate the methods discussed in the paper.
 
-`<embed src="abrpv2.pdf" width="800px" height="600px" />`
+<embed src="abrpv2.pdf" width="800px" height="600px" />
 
 
 ## Data Preparation
